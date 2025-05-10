@@ -1,71 +1,61 @@
-<h1 align="center">🍽️ Delectable Dish Discovery</h1>
+<h1 align="center">🍳 The Art of Cooking</h1>
 
 <p align="center">
-  <b>A stunning recipe gallery built with Vite + React + Tailwind</b><br/>
-  🔥 Explore. Save. Cook. Repeat.
+  <b>Discover, Save & Relish Delicious Recipes!</b><br/>
+  A modern, stylish recipe gallery app built with the latest web tech.
 </p>
 
 <p align="center">
-  <a href="https://preview--delectable-dish-discovery-38.lovable.app/">
-    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge" />
+  <a href="https://taoc.netlify.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-Visit-green?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/your-username/the-art-of-cooking">
+    <img src="https://img.shields.io/github/stars/your-username/the-art-of-cooking?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 🚀 Technologies Used
+## ✨ Features
 
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/shadcn--ui-black?style=for-the-badge&logo=ui&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Email.js-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
-
----
-
-## 🌟 Key Features
-
-- 📸 Recipe gallery with beautiful layout
-- 🔐 Firebase-based secure login
-- ✉️ EmailJS-powered contact form
-- 🔍 Easy recipe browsing
-- 📱 Mobile responsive
-- 💾 Favorites/bookmark support (localStorage ready)
+- 🔐 Firebase Authentication
+- 🍲 Recipe browsing with categories
+- 💾 Save favorite dishes locally
+- 💬 Elegant contact form with Email.js
+- 🎨 Responsive UI with shadcn-ui & Tailwind
+- 🔍 Fast filtering and search
+- 📱 Mobile-first design
 
 ---
 
-## 🔐 Authentication Flow
+## 🚀 Tech Stack
 
-- Login with Firebase
-- Secure routes for authenticated users
-- Seamless logout/session management
-
----
-
-## 💌 Contact Flow
-
-- Contact form built using ShadCN UI
-- Integrated with Email.js – no backend needed
-- Instant user confirmation
+| Tech | Description |
+|------|-------------|
+| **React** | UI Framework |
+| **TypeScript** | Type-safe Development |
+| **Vite** | Lightning-fast build tool |
+| **Tailwind CSS** | Modern utility-first CSS |
+| **shadcn/ui** | Beautiful, accessible components |
+| **Firebase** | Authentication & Hosting |
+| **Email.js** | Contact form handler |
 
 ---
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
-> Add your actual screenshots below. For now, you can use placeholder images.
+| Home Page | Recipe Detail | Login |
+|-----------|----------------|-------|
+| ![Home](https://via.placeholder.com/600x300?text=Home+Page) | ![Detail](https://via.placeholder.com/600x300?text=Recipe+Details) | ![Login](https://via.placeholder.com/600x300?text=Login+Page) |
 
-| Home Page | Recipe Detail |
-|-----------|----------------|
-| ![Home Screenshot](https://via.placeholder.com/600x300?text=Home+Page) | ![Detail Screenshot](https://via.placeholder.com/600x300?text=Recipe+Detail) |
+> 🔁 Replace the placeholders with your actual screenshots for a polished presentation.
 
 ---
 
-## 🛠️ Local Setup
+## 🛠️ Run Locally
 
 ```bash
-git clone https://github.com/yourusername/delectable-dish-discovery.git
-cd delectable-dish-discovery
+git clone https://github.com/your-username/the-art-of-cooking.git
+cd the-art-of-cooking
 npm install
 npm run dev
