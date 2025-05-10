@@ -28,17 +28,16 @@
 
 ## 🖼️ Preview Screens
 
-### 🏠 Home Page  
+### 🏠 food images  
 ![Home](https://images.unsplash.com/photo-1600891964599-f61ba0e24092)
 
 ---
 
-### 📖 Recipe Detail  
-![Recipe Detail](https://images.unsplash.com/photo-1551218808-94e220e084d2)
+
 
 ---
 
-### 🔐 Login Page  
+### 🔐 hotel 
 ![Login](https://images.unsplash.com/photo-1517248135467-4c7edcad34c4)
 
 ---
