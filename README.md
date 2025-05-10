@@ -49,11 +49,7 @@ For collaboration or feedback, reach me at:
 
 ---
 
-## 🤝 Contributing is fun 🧡
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/apu52/Travel_Website/main/assets/contributors.png" width="600" alt="Community Contributors" />
-</p>
 
 ---
 
