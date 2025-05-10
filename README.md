@@ -1,61 +1,82 @@
 <h1 align="center">🍳 The Art of Cooking</h1>
 
 <p align="center">
-  <b>Discover, Save & Relish Delicious Recipes!</b><br/>
-  A modern, stylish recipe gallery app built with the latest web tech.
+  <img src="https://images.unsplash.com/photo-1490645935967-10de6ba17061" width="700" alt="Cooking Banner" />
 </p>
 
 <p align="center">
-  <a href="https://taoc.netlify.app/">
-    <img src="https://img.shields.io/badge/Live-Demo-Visit-green?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/your-username/the-art-of-cooking">
-    <img src="https://img.shields.io/github/stars/your-username/the-art-of-cooking?style=for-the-badge" />
-  </a>
+  A visually rich recipe gallery website built with modern web technologies.
+</p>
+
+<hr/>
+
+## 🚀 Live Project
+
+🔗 [Visit the site](https://taoc.netlify.app)
+
+---
+
+## 🧩 Tech Stack
+
+- ⚡ **Vite** + **TypeScript**
+- 🎨 **Tailwind CSS** + **shadcn/ui**
+- 🔐 **Firebase Auth**
+- 📧 **Email.js** (Contact Form)
+- 🍽️ **React** (Modular UI components)
+
+---
+
+## 🖼️ Preview Screens
+
+### 🏠 Home Page  
+![Home](https://images.unsplash.com/photo-1600891964599-f61ba0e24092)
+
+---
+
+### 📖 Recipe Detail  
+![Recipe Detail](https://images.unsplash.com/photo-1551218808-94e220e084d2)
+
+---
+
+### 🔐 Login Page  
+![Login](https://images.unsplash.com/photo-1517248135467-4c7edcad34c4)
+
+---
+
+## 📫 Contact
+
+For collaboration or feedback, reach me at:  
+📧 **shammichalas@gmail.com**
+
+---
+
+## 🤝 Contributing is fun 🧡
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/apu52/Travel_Website/main/assets/contributors.png" width="600" alt="Community Contributors" />
 </p>
 
 ---
 
-## ✨ Features
+## 🙏 Acknowledgements
 
-- 🔐 Firebase Authentication
-- 🍲 Recipe browsing with categories
-- 💾 Save favorite dishes locally
-- 💬 Elegant contact form with Email.js
-- 🎨 Responsive UI with shadcn-ui & Tailwind
-- 🔍 Fast filtering and search
-- 📱 Mobile-first design
+Thanks to all the amazing contributors who make open source a beautiful place to build and learn together.  
+Special thanks to the following resources:
 
----
-
-## 🚀 Tech Stack
-
-| Tech | Description |
-|------|-------------|
-| **React** | UI Framework |
-| **TypeScript** | Type-safe Development |
-| **Vite** | Lightning-fast build tool |
-| **Tailwind CSS** | Modern utility-first CSS |
-| **shadcn/ui** | Beautiful, accessible components |
-| **Firebase** | Authentication & Hosting |
-| **Email.js** | Contact form handler |
+- 🖼️ [Unsplash](https://unsplash.com) – Free food photography
+- 💌 [Email.js](https://www.emailjs.com/)
+- 🔥 [Firebase](https://firebase.google.com/)
+- ✨ [shadcn/ui](https://ui.shadcn.com/)
+- ⚡ [Vite](https://vitejs.dev/)
 
 ---
 
-## 📸 Screenshots
+## 📄 License
 
-| Home Page | Recipe Detail | Login |
-|-----------|----------------|-------|
-| ![Home](https://via.placeholder.com/600x300?text=Home+Page) | ![Detail](https://via.placeholder.com/600x300?text=Recipe+Details) | ![Login](https://via.placeholder.com/600x300?text=Login+Page) |
-
-> 🔁 Replace the placeholders with your actual screenshots for a polished presentation.
+MIT License © 2025 [Shammi Chalas](https://github.com/shammichalas)
 
 ---
 
-## 🛠️ Run Locally
-
-```bash
-git clone https://github.com/your-username/the-art-of-cooking.git
-cd the-art-of-cooking
-npm install
-npm run dev
+<p align="center">
+  Made with ❤️ and 🍜 in India
+</p>
